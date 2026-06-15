@@ -1,0 +1,7 @@
+bash's vpc:  35.234.141.2,   10.72.12.0/24
+ikev2, password: 6zBr/YVarltowd6tSMK2713r+5o1vaMX
+
+
+allow gconsole-ssh-in-browser firewall rule
+for vpc, ip allow this range, all instances in network, allow protocols (or just tcp 22)
+35.235.240.0/20
